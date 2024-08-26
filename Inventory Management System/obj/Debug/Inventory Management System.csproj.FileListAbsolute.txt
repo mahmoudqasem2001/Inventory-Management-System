@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
